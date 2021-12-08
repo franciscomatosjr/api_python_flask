@@ -1,5 +1,6 @@
 from sql_alchemy import banco
 
+
 class UserModel(banco.Model):
     __tablename__ = 'usuarios'
 
