@@ -3,7 +3,9 @@
 - RESTful Web Services 
 - Web API 
 - Webservice REST 
-- Webservices e 
+- Webservices  
+- SQLite
+- Postgress
 - Deploy!
 
 
